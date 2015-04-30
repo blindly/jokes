@@ -1,0 +1,18 @@
+#jokes {
+    border-collapse:separate;
+    border-spacing:2em;
+}
+
+body {
+    background: #334467;
+    color: #E5EEFF;
+    font-family: 'Questrial', sans-serif;
+}
+
+table {
+    border-color: gray;
+}
+
+body {
+    margin-top: 70px;
+}
